@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ds-rocket-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,10 +27,10 @@
     "vite": "^3.1.8"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@ds-rocket-ignite-ui/eslint-config": "*",
+    "@ds-rocket-ignite-ui/react": "*",
+    "@ds-rocket-ignite-ui/tokens": "*",
+    "@ds-rocket-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.13",
     "polished": "^4.2.2",
     "react": "^18.2.0",
